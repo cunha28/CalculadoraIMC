@@ -9,7 +9,8 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 ![Screenshot front](https://user-images.githubusercontent.com/125224531/219229020-49545388-9927-4c0d-a124-5a6dec1188eb.png)
 ![Screenshot front number ](https://user-images.githubusercontent.com/125224531/219229033-318c6897-75cb-4021-9d2c-4e70d978c489.png)
 
-![Screenshot back](https://user-images.githubusercontent.com/125224531/219229039-a011b2fd-2871-4234-afc5-f73cb243d843.png)
+
+![Screenshot back](https://user-images.githubusercontent.com/125224531/219499923-25ca5875-502d-4f2f-8ef3-fbab9b31bb8b.png)
 
 gias
 * Kotlin
